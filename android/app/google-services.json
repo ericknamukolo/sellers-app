@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179482494114",
+    "project_id": "sellers-app-dd4cb",
+    "storage_bucket": "sellers-app-dd4cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179482494114:android:b1c7356b9f31473a9e03fb",
+        "android_client_info": {
+          "package_name": "com.example.sellers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179482494114-68rlf33h7n9c5ok12043ncboqsi91t99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoB7yB3LCEP9C9x_35fixFVFyX9s-GS4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179482494114-68rlf33h7n9c5ok12043ncboqsi91t99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
